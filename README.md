@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![suica's GitHub stats](https://github-readme-stats.vercel.app/api?username=suica&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suica&layout=donut)
+
