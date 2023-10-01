@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a software engineer at Baidu, Beijing.
+- 🔭 I used to work as a software engineer at Baidu, Beijing.
 - 🌱 I’m currently learning programming language theory and logic.
 
 <!--
