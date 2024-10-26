@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning programming language theory and logic.
+- 🔭 I’m currently working as a software engineer at Netease, focusing on DSL-related codegen, type system and language server.
+- 🌱 I’m interested in programming language theory, logic and compilers.
 
 <!--
 **suica/suica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
